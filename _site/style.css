@@ -276,7 +276,7 @@ nav a {
   letter-spacing: 1px;
 }
 nav a:hover, nav a:active {
-  color: #333333;
+  color: #aaa;
 }
 @media screen and (max-width: 640px) {
   nav a {
@@ -335,6 +335,16 @@ footer {
 .more-obvious-blue:hover {
   color: #248c84;
   text-decoration: underline;
+}
+
+.other-project {
+  display: inline-block;
+  width: 50%;
+}
+
+.other-project + p {
+  display: inline-block;
+  width: 200px;
 }
 
 .highlight {
@@ -706,7 +716,7 @@ code {
   cursor: pointer;
 }
 .site-name a:hover {
-  color: #333333;
+  color: #aaa;
 }
 
 .post a {

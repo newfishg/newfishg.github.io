@@ -232,7 +232,7 @@ nav {
     letter-spacing: 1px;
     
     &:hover, &:active {
-      color: darken($navbar-hover-color,20);
+      color: #aaa;
     }
 
     @include mobile {
@@ -300,6 +300,16 @@ footer {
 .more-obvious-blue:hover {
   color: #248c84;
   text-decoration: underline;
+}
+
+.other-project {
+  display: inline-block;
+  width: 50%;
+}
+
+.other-project + p {
+  display: inline-block;
+  width: 200px;
 }
 
 @import "highlights";

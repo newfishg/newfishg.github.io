@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-## [Xorro-P2P](https://github.com/xorro-p2p/xorro) 
+<h2><a class="more-obvious-blue" href="https://github.com/xorro-p2p/xorro">&#9733; Xorro-p2p</a></h2>
+
 **Xorro-P2P is a peer-to-peer file sharing application build from scartch** by myself and my two teammates. This project is meant to be shared with the community and used to expose the different features and steps needed in order to build a P2P file transfer system.
 
 #### Features
@@ -21,23 +22,31 @@ permalink: /projects/
 ***
 
 ## Other Projects
+<h3><a class="more-obvious-blue" href="https://github.com/newfishg/trello-clone">MyTrello</a></h3>
 
-### [MyTrello](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+A project management app styled on Trello that allow for card creation, deletion, reorganization, labeling, due data editing, adding comments, and key word searching of card
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+<figure class="other-project">
+  <img src="/images/trello-clone.png" />
+</figure>
 
 ***
 
-### This Could Be Another Project Name
+<h3><a class="more-obvious-blue" href="https://github.com/newfishg/Todos">Todos</a></h3>
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+Single page todo application written with Backbone.js and Express
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+<figure class="other-project">
+  <img src="/images/todos.png" />
+</figure>
 
 
-## Contact me
+***
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+<h3><a class="more-obvious-blue" href="https://github.com/newfishg/sushi">Sushi ordering</a></h3>
+
+Single page menu and ordering application written with Backbone.js
+
+<figure class="other-project">
+  <img src="/images/sushi-site.png" />
+</figure>
