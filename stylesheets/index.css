@@ -1,0 +1,24 @@
+body p {
+  font-size: 18px;
+}
+
+#home, #profolio {
+  padding-top: 8%;
+}
+
+
+
+.page-profolio {
+  text-align: center;
+  background: black;
+  color: #fff;
+}
+
+.page-profolio a {
+}
+
+.page-profolio img {
+  width: 80%;
+  margin: 20px 0;
+}
+
