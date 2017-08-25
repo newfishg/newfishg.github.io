@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: #8476ad;
+  color: #333;
 }
 h1 a {
   color: inherit;
@@ -100,7 +100,7 @@ h1 a {
 
 h2 {
   font-size: 24px;
-  color: #8476ad;
+  color: #333;
 }
 
 h3 {
@@ -192,11 +192,11 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .masthead {
-  padding: 10px 0;
+  padding: 0px 0;
   border-bottom: 1px solid #eee;
 }
 @media screen and (max-width: 640px) {
@@ -696,10 +696,10 @@ code {
 }
 
 .post a {
-  color: #8476ad;
+  color: #333;
 }
 .post a:hover {
-  color: #534776;
+  color: black;
 }
 
 .post-heading a {
@@ -743,9 +743,9 @@ button:focus {
 
 .button.button-primary,
 button.button-primary {
-  color: #8476ad;
+  color: #333;
   background-color: transparent;
-  border-color: #8476ad;
+  border-color: #333;
 }
 
 .button.button-primary:hover,
@@ -753,8 +753,8 @@ button.button-primary:hover,
 .button.button-primary:focus,
 button.button-primary:focus {
   color: #FFF;
-  background-color: #8476ad;
-  border-color: #8476ad;
+  background-color: #333;
+  border-color: #333;
 }
 
 /*
@@ -762,7 +762,7 @@ button.button-primary:focus {
 */
 .intro-header {
   border-top: 5px solid white;
-  background-color: #8476ad;
+  background-color: #333;
 }
 
 .intro-header .post-heading {
@@ -802,11 +802,11 @@ button.button-primary:focus {
     
 */
 .svg-icon a {
-  color: #695a96;
+  color: #1a1a1a;
   cursor: pointer;
 }
 .svg-icon a:hover {
-  color: #534776;
+  color: black;
 }
 
 /*
@@ -925,7 +925,7 @@ button.button-primary:focus {
 
 .ch-info p a {
   display: block;
-  color: #8476ad;
+  color: #333;
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
@@ -936,7 +936,7 @@ button.button-primary:focus {
 }
 
 .ch-info p a:hover {
-  color: #695a96;
+  color: #1a1a1a;
 }
 
 .ch-item:hover .ch-info-front {
