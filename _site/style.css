@@ -196,7 +196,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid #eee;
 }
 @media screen and (max-width: 640px) {
@@ -786,11 +786,11 @@ button.button-primary:focus {
     *empty spaces
 */
 .space-medium {
-  padding: 20px 0 20px;
+  padding: 10px 0 0 0;
 }
 
 .space-small {
-  padding: 10px 0 25px;
+  padding: 0;
 }
 
 .space-extra-small {
