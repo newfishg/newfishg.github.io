@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Hsin-yu Chen
 
 # Short bio or description (displayed in the header)
 description: Programmer From Somewhere On Earth
@@ -16,12 +16,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
-  facebook:
+  email: newfishg@gmail.com
+  facebook: newfishg
   flickr:
-  github: AkshayAgarwal007
+  github: newfishg
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: ken-chen-a52702a0
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -68,9 +68,6 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:
