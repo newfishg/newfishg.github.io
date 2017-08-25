@@ -288,5 +288,19 @@ footer {
   text-align: center;
 }
 
+.more-obvious-blue {
+  font-size: 20px;
+  color: #2EB5AA;
+}
+
+.more-obvious-wrapper{
+  text-align: center;
+}
+
+.more-obvious-blue:hover {
+  color: #248c84;
+  text-decoration: underline;
+}
+
 @import "highlights";
 @import "jekyll-mono";
