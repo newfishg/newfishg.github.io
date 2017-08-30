@@ -323,6 +323,10 @@ footer {
   text-align: center;
 }
 
+#front-page-link {
+  color: #2EB5AA;
+}
+
 .more-obvious-blue {
   font-size: 20px;
   color: #2EB5AA;
@@ -345,6 +349,15 @@ footer {
 .other-project + p {
   display: inline-block;
   width: 200px;
+}
+
+.recent-project p a {
+  float: left;
+}
+
+.recent-project a img {
+  width: 100px;
+  margin-right: 20px;
 }
 
 .highlight {
