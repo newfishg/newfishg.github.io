@@ -22,31 +22,48 @@ permalink: /projects/
 ***
 
 ## Other Projects
-<h3><a class="more-obvious-blue" href="https://github.com/newfishg/trello-clone">MyTrello</a></h3>
+<h3><a class="more-obvious-blue" href="https://github.com/newfishg/trello-clone">MyTrello</a><a class="project-demo" href="https://trello-clone-nfg.herokuapp.com/">Demo</a></h3>
 
-A project management app styled on Trello that allow for card creation, deletion, reorganization, labeling, due data editing, adding comments, and key word searching of card
-
-<figure class="other-project">
-  <img src="/images/trello-clone.png" />
-</figure>
-
+<div class="other-project">
+  <div class="project-left">
+    <a href="https://github.com/newfishg/trello-clone">
+      <img src="/images/trello-clone.png" />
+    </a>
+  </div>
+  <div class="project-right">
+    <p>A project management app styled on Trello that allow for card creation, deletion, reorganization, labeling, due data editing, adding comments, and key word searching of card</p
+    >
+  </div>
+</div>
 ***
 
 <h3><a class="more-obvious-blue" href="https://github.com/newfishg/Todos">Todos</a></h3>
 
-Single page todo application written with Backbone.js and Express
-
-<figure class="other-project">
-  <img src="/images/todos.png" />
-</figure>
-
+<div class="other-project">
+  <div class="project-left">
+    <a href="https://github.com/newfishg/Todos">
+      <img src="/images/todos.png" />
+    </a>
+  </div>
+  <div class="project-right">
+    <p>Single page todo application written with Backbone.js and Express</p
+    >
+  </div>
+</div>
 
 ***
 
-<h3><a class="more-obvious-blue" href="https://github.com/newfishg/sushi">Sushi ordering</a></h3>
+<h3><a class="more-obvious-blue" href="https://github.com/newfishg/sushi-site">Sushi ordering</a></h3>
 
-Single page menu and ordering application written with Backbone.js
+<div class="other-project">
+  <div class="project-left">
+    <a href="https://github.com/newfishg/sushi-site">
+      <img src="/images/sushi-site.png" />
+    </a>
+  </div>
+  <div class="project-right">
+    <p>Single page menu and ordering application written with Backbone.js</p
+    >
+  </div>
+</div>
 
-<figure class="other-project">
-  <img src="/images/sushi-site.png" />
-</figure>

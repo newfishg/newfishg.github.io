@@ -306,15 +306,37 @@ footer {
   text-decoration: underline;
 }
 
-.other-project {
-  display: inline-block;
+.project-demo {
+  padding: 10px;
+}
+
+.project-demo:hover {
+  text-decoration: underline;
+}
+
+.other-project .project-left {
+  float: left;
+  width: 48%;
+  margin-right: 10px;
+}
+
+
+
+.other-project .project-right {
+  float: right; 
   width: 50%;
 }
 
-.other-project + p {
-  display: inline-block;
-  width: 200px;
+.other-project:after {
+  clear: both;
+  content: "";
+  display: block;
 }
+
+.other-project img {
+}
+
+
 
 .recent-project p a {
   float: left;
